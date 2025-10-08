@@ -1,68 +1,97 @@
-# 👋 Hi, I'm **Saminathan Yuvarajan**
+<!-- Banner -->
+<p align="center">
+  <img src="https://i.imgur.com/dQZp2sR.png" width="100%" alt="Mechanical Engineering Banner"/>
+</p>
 
-### 📞 **Contact**
-📧 **Email:** [yuvarajans2802@gmail.com](mailto:yuvarajans2802@gmail.com)  
-💼 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Yuvarajan-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuvarajan-saminathan-06235221b)  
+<!-- Title and Contact -->
+<h1 align="center">Hi 👋, I'm Saminathan Yuvarajan</h1>
+<h3 align="center">Mechanical Design Engineer | 3D Modeling | FEM | Manufacturing Innovation</h3>
 
----
-
-### 🧠 **Mechanical Design Engineer | 3D Modelling | Simulation | Product Innovation**
-
-I’m a passionate **Mechanical Design Engineer** with strong expertise in **2D drafting, 3D modeling, and Finite Element Analysis (FEM)**.  
-My goal is to design innovative, efficient, and sustainable mechanical systems that blend creativity with functionality.
-
----
-
-### ⚙️ **Technical Skills**
-
-**Design Tools:** AutoCAD | SolidWorks | CATIA | Creo  
-**Simulation Tools:** ANSYS | Salome Meca  
-**Manufacturing:** Mastercam (Milling & Turning)  
-**Lean Concepts:** 5S | 5M | Continuous Improvement  
+<p align="center">
+  📧 <a href="mailto:yuvarajans2802@gmail.com">yuvarajans2802@gmail.com</a>  
+  &nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/yuvarajan-saminathan-06235221b">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin"/>
+  </a>
+</p>
 
 ---
 
-### 🧩 **Projects** *(You can edit and update these)*
+### 🧠 About Me
 
-- 🔧 **[Project 1 Name]** – Short description here...  
-- ⚙️ **[Project 2 Name]** – Short description here...  
-- 🧰 **[Project 3 Name]** – Short description here...  
-- 🪛 **[Project 4 Name]** – Short description here...  
-
----
-
-### 📜 **Certificates**
-
-🏅 **AutoCAD Certification** – [Institution / Platform Name]  
-🏅 **SolidWorks Professional** – [Institution / Platform Name]  
-🏅 **ANSYS Simulation Training** – [Institution / Platform Name]  
-🏅 **Mastercam Milling & Turning Course** – [Institution / Platform Name]  
-
-*(You can add your certificate images or links later)*  
+🔹 Passionate **Mechanical Design Engineer** with a deep interest in **3D Modeling, Simulation, and Product Design Optimization**.  
+🔹 Skilled in combining creativity with analytical thinking to deliver functional, manufacturable designs.  
+🔹 Committed to continuous improvement through **Lean Manufacturing** and **Precision Engineering**.  
 
 ---
 
-### 💡 **About Me**
+### 🧰 Technical Toolbox
 
-- 🎓 Mechanical Design Engineering Graduate  
-- 🌱 Constantly upgrading my design & FEM skills  
-- 💬 Interested in design innovation, simulation accuracy, and manufacturing efficiency  
-- ⚡ Fun fact: I see creativity even in mechanical constraints!  
+#### 🖥️ Design & CAD
+![AutoCAD](https://img.shields.io/badge/AutoCAD-E34F26?style=for-the-badge&logo=autodesk&logoColor=white)
+![SolidWorks](https://img.shields.io/badge/SolidWorks-FF0000?style=for-the-badge&logo=dassaultsystemes&logoColor=white)
+![CATIA](https://img.shields.io/badge/CATIA-005386?style=for-the-badge&logo=dassaultsystemes&logoColor=white)
+![Creo](https://img.shields.io/badge/Creo-008000?style=for-the-badge&logo=ptc&logoColor=white)
 
----
+#### ⚙️ Simulation & Analysis
+![ANSYS](https://img.shields.io/badge/ANSYS-FFB300?style=for-the-badge&logo=ansys&logoColor=black)
+![Salome Meca](https://img.shields.io/badge/Salome%20Meca-00599C?style=for-the-badge&logoColor=white)
 
-### 📊 **GitHub Overview**
-
-![Yuvarajan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YuvarajanS&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YuvarajanS&layout=compact&theme=tokyonight)
-
----
-
-### 🎯 **Future Learning Goals**
-- 🔹 Advanced FEM using ANSYS Workbench  
-- 🔹 Design Optimization for 3D Printing  
-- 🔹 CFD and Thermal Simulation  
+#### 🏭 Manufacturing & CAM
+![Mastercam](https://img.shields.io/badge/Mastercam-DC143C?style=for-the-badge&logoColor=white)
+![Lean Manufacturing](https://img.shields.io/badge/5S%20&%205M-008080?style=for-the-badge)
 
 ---
 
-⭐ **“Engineering isn’t just design — it’s turning imagination into reality.”**
+### 🧩 Projects *(Editable Section)*
+
+📌 **[Project 1 Name]** — Short project description here...  
+📌 **[Project 2 Name]** — Short project description here...  
+📌 **[Project 3 Name]** — Short project description here...  
+📌 **[Project 4 Name]** — Short project description here...  
+
+> _You can update this section later with project links, images, or reports._
+
+---
+
+### 🏅 Certificates
+
+🎓 **AutoCAD Certification** – [Institution / Platform Name]  
+🎓 **SolidWorks Professional Certification** – [Institution / Platform Name]  
+🎓 **ANSYS Structural Analysis** – [Institution / Platform Name]  
+🎓 **Mastercam CNC Training** – [Institution / Platform Name]  
+
+> _(You can add certificate images or verified links.)_
+
+---
+
+### 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YuvarajanS&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuvarajanS&layout=compact&theme=tokyonight" height="150"/>
+</p>
+
+---
+
+### 🎯 Future Learning Goals
+
+- 🔹 Advanced FEM Techniques using ANSYS Workbench  
+- 🔹 CFD & Thermal Analysis for Product Cooling  
+- 🔹 Design for Additive Manufacturing (3D Printing)  
+- 🔹 Product Lifecycle Management (PLM)  
+
+---
+
+### 🧩 Fun Fact  
+> “Engineering is where creativity meets precision — turning imagination into functional reality.”
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YuvarajanS&label=Profile%20Views&color=0e75b6&style=flat" alt="YuvarajanS" />
+</p>
+
+<p align="center">
+  ⭐ Show some love by starring my repositories if you like my work!
+</p>
