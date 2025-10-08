@@ -1,6 +1,5 @@
-<!-- Banner -->
 <p align="center">
-  <img src="https://i.imgur.com/dQZp2sR.png" width="100%" alt="Mechanical Engineering Banner"/>
+  <img src="https://i.imgur.com/nmL9HqP.png" width="100%" alt="Mechanical Design Engineer Banner"/>
 </p>
 
 <!-- Title and Contact -->
