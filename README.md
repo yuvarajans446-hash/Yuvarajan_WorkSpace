@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://i.imgur.com/nmL9HqP.png" width="100%" alt="Mechanical Design Engineer Banner"/>
-</p>
-
 <!-- Title and Contact -->
 <h1 align="center">Hi 👋, I'm Saminathan Yuvarajan</h1>
 <h3 align="center">Mechanical Design Engineer | 3D Modeling | FEM | Manufacturing Innovation</h3>
@@ -38,6 +34,7 @@
 
 #### 🏭 Manufacturing & CAM
 ![Mastercam](https://img.shields.io/badge/Mastercam-DC143C?style=for-the-badge&logoColor=white)
+#### Lean Manufacturing
 ![Lean Manufacturing](https://img.shields.io/badge/5S%20&%205M-008080?style=for-the-badge)
 
 ---
