@@ -39,14 +39,13 @@
 
 ---
 
-### 🧩 Projects *(Editable Section)*
+### 🧩 Projects
 
 📌 **[Project 1 Name]** — Short project description here...  
 📌 **[Project 2 Name]** — Short project description here...  
 📌 **[Project 3 Name]** — Short project description here...  
 📌 **[Project 4 Name]** — Short project description here...  
 
-> _You can update this section later with project links, images, or reports._
 
 ---
 
@@ -57,7 +56,6 @@
 🎓 **ANSYS Structural Analysis** – [Institution / Platform Name]  
 🎓 **Mastercam CNC Training** – [Institution / Platform Name]  
 
-> _(You can add certificate images or verified links.)_
 
 ---
 
@@ -73,7 +71,6 @@
 ### 🎯 Future Learning Goals
 
 - 🔹 Advanced FEM Techniques using ANSYS Workbench  
-- 🔹 CFD & Thermal Analysis for Product Cooling  
 - 🔹 Design for Additive Manufacturing (3D Printing)  
 - 🔹 Product Lifecycle Management (PLM)  
 
