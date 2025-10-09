@@ -1,6 +1,6 @@
 <!-- Title and Contact -->
 <h1 align="center">Hi 👋, I'm Saminathan Yuvarajan</h1>
-<h3 align="center">Mechanical Design Engineer | 3D Modeling | FEM | Manufacturing Innovation</h3>
+<h3 align="center">Mechanical Design Engineer | 3D Modeling | CNC Truning and Milling Programmer| Manufacturing Innovation</h3>
 
 <p align="center">
   📧 <a href="mailto:yuvarajans2802@gmail.com">yuvarajans2802@gmail.com</a>  
